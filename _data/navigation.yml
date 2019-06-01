@@ -1,10 +1,10 @@
 - name: Members
-  link: /blog/
+  link: /members/
 - name: Research
-  link: /about/
+  link: /research/
 - name: Publications
-  link: /contact/
+  link: /publications/
 - name: Presentations
-  link: /contact/
+  link: /presentations/
 - name: Course
-  link: /contact/
+  link: /course/
