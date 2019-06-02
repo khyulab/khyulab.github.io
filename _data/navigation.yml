@@ -1,7 +1,7 @@
-- name: Members
-  link: /members/
 - name: Research
   link: /research/
+- name: People
+  link: /people/
 - name: Publications
   link: /publications/
 - name: Presentations
