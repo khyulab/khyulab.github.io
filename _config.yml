@@ -12,8 +12,8 @@ disqus_shortname:
 logo: /siteicon.png
 description: The Yu Lab
 author: Kun-Hsing Yu
-  name: Kun-Hsing Yu
-  email: Kun-Hsing Yu AT HMS
+  name:
+  email:
   twitter: kunhsingyu
 social:
   name: Kun-Hsing Yu
