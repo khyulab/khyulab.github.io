@@ -11,12 +11,12 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: The Yu Lab
-author: Kun-Hsing Yu, MD, PhD
-  name: Kun-Hsing Yu, MD, PhD
+author: Kun-Hsing Yu
+  name: Kun-Hsing Yu
   email: Kun-Hsing Yu AT HMS
   twitter: kunhsingyu
 social:
-  name: Kun-Hsing Yu, MD, PhD
+  name: Kun-Hsing Yu
   links:
     - https://github.com/khyulab
 
