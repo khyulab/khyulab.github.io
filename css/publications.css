@@ -4,10 +4,6 @@
   padding-left: 0;
 }
 
-.pub-item {
-  margin-bottom: 14px;
-}
-
 .pub-row {
   display: flex;
   align-items: flex-start;
@@ -24,6 +20,13 @@
 }
 
 .pub-text {
-  font-size: 0.95em;
-  line-height: 1.4;
+  padding-left: 1.2em;
+}
+
+.pub-bullet {
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  font-size: 1.2em;
+  line-height: 1;
 }
