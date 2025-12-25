@@ -19,7 +19,16 @@
   height: auto;
 }
 
+.pub-text::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  font-size: 1.2em;
+}
+
 .pub-text {
+  position: relative;
   padding-left: 1.2em;
 }
 
