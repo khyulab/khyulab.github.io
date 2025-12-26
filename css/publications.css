@@ -25,6 +25,16 @@
   padding-left: 1.2em;
 }
 
+.pub-text ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.pub-text li {
+  margin: 0;
+}
+
 .pub-bullet {
   position: absolute;
   left: 0;
